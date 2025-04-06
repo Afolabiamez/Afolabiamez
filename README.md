@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm James. Studied Systems Engineering and have been coding for 3 years, React frontend, Node backend, DevOps and System Design 🌍  I'm based in Lagos, Nigeria ✉️  You can contact me at [afolabijames1997@gmail.com](mailto:afolabijames1997@gmail.com) 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello Animation" width="250" />
+</p>
+
+# 👋 Hey there! I'm **James**  
+### Systems Engineer | 3 Years of Coding Experience
+
+From building **React** frontends to scalable **Node.js** backends, I whole point of being a systems engineer is to breakdown complex systems into simple, user-friendly solutions. My expertise also spans **DevOps** and **System Design**, ensuring your app runs smoothly. 🌍 I'm based in **Lagos, Nigeria**, and I enjoy solving problems.
+
+📩 You can contact me at [afolabijames1997@gmail.com](mailto:afolabijames1997@gmail.com) for collaborations or just to chat about tech!
+
 
 ### Skills
 
