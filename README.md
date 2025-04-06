@@ -21,8 +21,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1BfHGzQ4bA0g/giphy.gif" alt="Programmer at Desk" width="500"/>
+  <!-- Updated programmer GIF -->
+  <img src="https://media.giphy.com/media/7PfgwC6EMr7Mo7iW9b/giphy.gif" alt="Programmer at Desk" width="500"/>
 </p>
+
 
 
 
