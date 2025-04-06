@@ -20,10 +20,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="30" height="30" alt="AWS" /></a>
 </p>
 
-<p align="center">
-  <!-- Updated programmer GIF -->
-  <img src="https://media.giphy.com/media/7PfgwC6EMr7Mo7iW9b/giphy.gif" alt="Programmer at Desk" width="500"/>
-</p>
 
 
 
