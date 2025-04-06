@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hello Animation" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJodWkwaHI2MjR3aWpwMnA3aXg1dm8zNjlhODZ4OW5ldW9kaGdyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" alt="Hello Animation" width="250" />
 </p>
+
 
 # 👋 Hey there! I'm **James**  
 ### Systems Engineer | 3 Years of Coding Experience
