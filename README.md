@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afolabi James, Software Developer. Studied Systems Engineering and have been coding for 3 years, front and back end with React and Express* 🌍  I'm based in Lagos, Nigeria* ✉️  You can contact me at [afolabijames1997@gmail.com](mailto:afolabijames1997@gmail.com)* 🧠  I'm learning React Native* 🤝  I'm open to collaborating on Projects* ⚡  im the black panther from Africa, yh, the one you've heard about.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm James. Studied Systems Engineering and have been coding for 3 years, React frontend, Node backend, DevOps and System Design 🌍  I'm based in Lagos, Nigeria ✉️  You can contact me at [afolabijames1997@gmail.com](mailto:afolabijames1997@gmail.com) 
 
 ### Skills
 
